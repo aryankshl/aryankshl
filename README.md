@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryankshl&label=Profile%20views&color=0e75b6&style=flat" alt="aryankshl" /> </p>
 
-- 🔭 I’m currently working on [IZRAF](https://github.com/aks057/IZRAF)
+- 🔭 I’m currently working on [QuickFind](https://github.com/aryankshl/QuickFind)
 
 - 💬 Ask me about **MERN, C++**
 
@@ -26,6 +26,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryankshl&show_icons=true&locale=en&layout=compact" alt="aryankshl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryankshl&show_icons=true&locale=en" alt="aryankshl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryankshl&" alt="aryankshl" /></p>
+
